@@ -1,2 +1,4 @@
 hellogoogle/RunCucumberTest.class
+WebDriverFactory.class
+ChromeBrowserScript.class
 hellogoogle/Stepdefs.class
